@@ -23,7 +23,7 @@ Python 3.7 + Pytorch 1.1 + CUDA 10.0 + CUDNN 10.0v7.5.1.10
 We recommend to use *Anaconda* to manage packages. Run following lines to automatically setup a ready environment for our code.
 ````
 conda env create -f environment.yml  # Notice this one installs latest pytorch version.
-conda activte relapose
+conda activate relapose
 ````
 Otherwise, one can try to download all required packages separately according to their offical documentation.
 
